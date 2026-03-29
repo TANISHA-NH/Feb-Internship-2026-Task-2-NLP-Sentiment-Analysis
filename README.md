@@ -1,6 +1,6 @@
 # Sentiment Analysis using NLP & ML
 
-* **Internship Task:** Data Science Internship – February 2026 (Task 2)
+* **Internship Task:** GEN AI Internship – February 2026 (Task 2)
 
 * **Objective:** Build an end-to-end Sentiment Analysis pipeline using NLP and ML models
 
